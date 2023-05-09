@@ -12,6 +12,8 @@ public class StopAtFive {
             number = scanner10.nextInt();
         }
 
-//        System.out.println("You're done, you entered the number 5. Program stopped.");
+        System.out.println("You're done, you entered the number 5. Good Bye.");
     }
 }
+
+
